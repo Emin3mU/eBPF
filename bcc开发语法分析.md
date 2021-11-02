@@ -1,6 +1,6 @@
 # BCC开发代码分析
 ## 代码示例
-helle_word.py
+hello_word.py
 ```python
 from bcc import BPF
 
